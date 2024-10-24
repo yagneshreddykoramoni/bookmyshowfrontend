@@ -1,0 +1,51 @@
+.total{
+    position: relative;
+    margin-top: 426px;
+    margin-left: 19px;
+}
+
+.head{
+    display: flex;
+    gap: 943px;
+}
+
+.rec{
+    font-size: 26px;
+    font-weight: bold;
+    cursor: default;
+}
+
+.see{
+    color: red;
+    font-family: bold;
+    cursor: pointer;
+}
+
+.pics{
+    display: flex;
+    margin-top: 10px;
+    gap: 31px;
+}
+
+.pic{
+    cursor: pointer;
+}
+
+.Mname{
+    margin-top: 10px;
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 2px;
+}
+
+.genre{
+    text-align: left;
+    margin-top: 6px;
+    color: rgba(75, 75, 75, 0.958);
+}
+
+.ad{
+    margin-top: 84px;
+    margin-left: -13px;
+    cursor: pointer;
+}

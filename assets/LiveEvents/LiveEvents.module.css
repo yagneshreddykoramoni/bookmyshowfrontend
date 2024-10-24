@@ -1,0 +1,26 @@
+.total{
+    position: relative;
+    margin-top: 76px;;
+    margin-left: 20px;
+}
+
+.head{
+    display: flex;
+    gap: 943px;
+}
+
+.live{
+    font-size: 26px;
+    font-weight: bold;
+    cursor: default;
+}
+
+.pics{
+    display: flex;
+    margin-top: 9px;
+    gap: 31px;
+}
+
+.pic{
+    cursor: pointer;
+}

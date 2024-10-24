@@ -1,0 +1,64 @@
+.total{
+    background-color: #2B3149;
+    margin-top: 1527px;
+    position: absolute;
+    width: 100%;
+    height: 645px;
+}
+
+.top{
+    margin-left: 20px;
+    margin-top: 14px;
+}
+
+.top img{
+    cursor: pointer;
+}
+
+.head{
+    margin-top: 27px;
+    margin-left: 142px;
+    text-align: left;
+}
+
+.prem{
+    font-size: 26px;
+    font-weight: bold;
+    cursor: default;
+    color: white;
+}
+
+.brand{
+    color: red;
+    font-family: bold;
+    cursor: default;
+    color: white;
+}
+
+.pics{
+    margin-top: 9px;
+    margin-left: 141px;
+    display: flex;
+    gap: 31px;
+}
+
+.pic{
+    cursor: pointer;
+}
+
+.Mname{
+    margin-top: 7px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 1px;
+    font-size: 18px;
+    color: white;
+    width: 180px;
+}
+
+.lang{
+    text-align: left;
+    margin-top: 6px;
+    color: white;
+    margin-left: 1px;
+}

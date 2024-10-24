@@ -1,0 +1,38 @@
+.total{
+    position: absolute;
+    margin-top: 6350px;
+    background-color: rgb(49, 48, 53);
+    width: 100%;
+    height: 84px;
+}
+
+.line{
+    display: flex;
+    color: white;
+    margin-left: 150px;
+    gap: 15px;
+}
+
+.hut{
+    margin-top: 28px;
+}
+
+.list{
+    margin-top: 36px;
+    font-weight: bolder;
+}
+
+.matter{
+    margin-top: 36px;
+}
+
+button{
+    margin-top: 24px;
+    background-color: rgb(236, 94, 113);
+    margin-left: 303px;
+    color: white;
+    padding: 10px 21px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.slide{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 140px;
+}
+
+.total{
+    margin-top: 106px;
+    position: relative;
+    background-color: rgba(128, 128, 128, 0.193);
+    height: 320px;
+    display: flex;
+    position: absolute;
+    width: 100%;
+}
+
+img{
+    border-radius: 12px;
+}
+
